@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Player Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+            height: 100vh;
+        }
+
+        .column {
+            flex: 1;
+            margin: 10px;
+            border-radius: 10px;
+            color: white;
+            text-align: center;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 20px;
+        }
+
+        .column h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        .column p {
+            font-size: 18px;
+        }
+
+        .column button {
+            background-color: #052c65;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .column button:hover {
+            background-color: #e66e3d;
+            background-color: #052c65;
+            color: #fff;
+            text-align: center;
+            padding: 2rem 3rem;
+            border-radius: 15px;
+            font-size: 1.8rem;
+            font-weight: bold;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+        }
+
+        .batsman {
+            background-image: "images/batsman.jpg"; /* Replace with actual URL */
+        }
+
+        .bowler {
+            background-image: url(); /* Replace with actual URL */
+        }
+
+        .allrounder {
+            background-image: url('https://example.com/allrounder.jpg'); /* Replace with actual URL */
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="column batsman">
+
+        <form action="/batsman" method="post">
+            <button type="submit">Batsman Price Prediction</button>
+        </form>
+    </div>
+
+
+    <div class="column bowler">
+
+        <form action="/bowler" method="post">
+            <button type="submit">Bowler Price  Prediction</button>
+        </form>
+    </div>
+
+
+    <div class="column allrounder">
+
+        <form action="/allrounder" method="post">
+            <button type="submit">Allrounder Price Prediction</button>
+        </form>
+    </div>
+</div>
+<script>
+ const images = [
+            "{{ url_for('static', filename='images/auction1.jpg') }}",
+            "{{ url_for('static', filename='images/auction2.jpg') }}",
+            "{{ url_for('static', filename='images/auction4.jpg') }}"
+        ];
+        let currentIndex = 0;
+        function changeBackground() {
+            document.body.style.backgroundImage = `url(${images[currentIndex]})`;
+            currentIndex = (currentIndex + 1) % images.length; // Cycle through images
+        }
+        setInterval(changeBackground, 5000);
+        changeBackground();
+</script>
+</body>
+</html>

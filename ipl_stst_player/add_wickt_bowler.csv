@@ -1,0 +1,169 @@
+PLAYER, RUNS, MAT, INNS, NO, HS, AVG, BF, SR,100,50, 4S, 6S, Year, TEAM, Price, TYPE, nid, Wicket
+Piyush Chawla,90,15,7,3, 24*,22.5,59,152.54,0,0,10,3,2008, PBKS,17404000, Bowler, pchawla,17
+Shane Warne,70,15,7,2, 22*,14,59,118.64,0,0,7,2,2008, RR,19579500, Bowler, swarne,19
+Umar Gul,39,6,4,1,24,13,19,205.26,0,0,1,5,2008, KKR,6526500, Bowler, ugul,12
+Sohail Tanvir,36,11,5,2,13,12,29,124.13,0,0,3,1,2008, RR,4351000, Bowler, stanvir,22
+Zaheer Khan,34,11,8,4, 17*,8.5,43,79.06,0,0,4,0,2008, RCB,19579500, Bowler, zkhan,13
+Harbhajan Singh,30,3,3,1,28,15,17,176.47,0,0,1,3,2008, MI,36983500, Bowler, hsingh,5
+Murali Kartik,30,6,3,0,17,10,27,111.11,0,0,3,0,2008, KKR,18491750, Bowler, mkartik,3
+Ramesh Powar,28,5,1,1, 28*,0,21,133.33,0,0,4,1,2008, PBKS,7396700, Bowler, rpowar,3
+Brett Lee,17,4,3,2, 16*,17,13,130.76,0,0,2,1,2008, PBKS,39159000, Bowler, blee,4
+Anil Kumble,13,10,5,3,8,6.5,17,76.47,0,0,1,0,2008, RCB,21755000, Bowler, akumble,7
+Makhaya Ntini,11,9,2,1,11,11,18,61.11,0,0,2,0,2008, CSK,8702000, Bowler, mntini,7
+Ishant Sharma,11,13,6,5, 4*,11,11,100,0,0,1,0,2008, KKR,41334500, Bowler, isharma,7
+Mohammad Asif,3,8,2,0,3,1.5,6,50,0,0,0,0,2008, DC,28281500, Bowler, masif,8
+Shoaib Akhtar,2,3,1,0,2,2,7,28.57,0,0,0,0,2008, KKR,18491750, Bowler, sakhtar,5
+Dale Steyn,2,10,2,1, 1*,2,5,40,0,0,0,0,2008, RCB,14140750, Bowler, dsteyn,10
+Munaf Patel,0,15,2,2, 0*,0,1,0,0,0,0,0,2008, RR,11965250, Bowler, mpatel,14
+Thilan Thushara,2,2,2,1, 1*,2,7,28.57,0,0,0,0,2009, CSK,6860000, Bowler, tthushara,3
+Kevon Cooper,38,6,4,2,14,19,20,190,0,0,3,3,2012, RR,2600000, Bowler, kcooper,10
+Robin Peterson,32,5,5,2, 16*,10.66,30,106.66,0,0,3,1,2012, MI,5200000, Bowler, rpeterson,3
+Doug Bracewell,12,1,1,1, 12*,0,9,133.33,0,0,1,0,2012, DC,2600000, Bowler, dbracewell,3
+Sunil Narine,9,15,2,1, 9*,9,7,128.57,0,0,2,0,2012, KKR,36400000, Bowler, snarine,24
+Manpreet Gony,45,8,5,1,42,11.25,25,180,0,0,4,3,2013, PBKS,30000000, Bowler, mgony,7
+Ravi Rampaul,38,10,6,2, 23*,9.5,37,102.7,0,0,3,1,2013, RCB,17400000, Bowler, rrampaul,13
+Kane Richardson,34,3,2,0,26,17,36,94.44,0,0,2,1,2013, PWI,42000000, Bowler, krichardson,2
+Nathan Coulter-Nile,9,1,1,0,9,9,6,150,0,0,0,1,2013, MI,27000000, Bowler, ncoulter-nile,1
+Ryan McLaren,3,2,2,0,2,1.5,6,50,0,0,0,0,2013, KKR,3000000, Bowler, rmclaren,3
+Mitchell Starc,85,14,9,3,29,14.16,84,101.19,0,0,9,0,2014, RCB,50000000, Bowler, mstarc,14
+Karn Sharma,42,14,8,4, 17*,10.5,29,144.82,0,0,1,3,2014, SRH,37500000, Bowler, ksharma,15
+Dhawal Kulkarni,35,8,2,2, 28*,0,25,140,0,0,1,2,2014, RR,11000000, Bowler, dkulkarni,6
+Varun Aaron,35,10,3,3, 17*,0,34,102.94,0,0,2,1,2014, RCB,20000000, Bowler, vaaron,16
+Piyush Chawla,31,11,5,2, 17*,10.33,19,163.15,0,0,4,1,2014, KKR,42500000, Bowler, pchawla,14
+Rahul Shukla,18,3,3,2,14,18,21,85.71,0,0,2,0,2014, DC,6000000, Bowler, rshukla,2
+Jason Holder,16,1,1,0,16,16,12,133.33,0,0,2,1,2014, SRH,7500000, Bowler, jholder,1
+Ravi Rampaul,13,2,1,0,13,13,13,100,0,0,0,1,2014, RCB,9000000, Bowler, rrampaul,1
+Harshal Patel,13,3,3,1,6,6.5,7,185.71,0,0,1,1,2014, RCB,4000000, Bowler, hpatel,4
+Shreyas Gopal,11,4,1,0,11,11,10,110,0,0,1,0,2014, MI,1000000, Bowler, sgopal,6
+Ben Cutting,8,1,1,0,8,8,6,133.33,0,0,0,1,2014, RR,8000000, Bowler, bcutting,1
+Zaheer Khan,8,6,4,3, 7*,8,7,114.28,0,0,0,1,2014, MI,26000000, Bowler, zkhan,5
+Shahbaz Nadeem,7,11,3,1, 3*,3.5,19,36.84,0,0,0,0,2014, DC,40500000, Bowler, snadeem,8
+Shivam Sharma,5,4,2,1,4,5,3,166.66,0,0,1,0,2014, PBKS,1000000, Bowler, ssharma,18
+Shivam Sharma,5,4,2,1,4,5,3,166.66,0,0,1,0,2014, PBKS,1000000, Bowler, ssharma,18
+Pravin Tambe,5,13,2,0,3,2.5,9,55.55,0,0,0,0,2014, RR,1000000, Bowler, ptambe,15
+Ashok Dinda,4,9,3,2, 2*,4,12,33.33,0,0,0,0,2014, RCB,15000000, Bowler, adinda,5
+Amit Mishra,4,10,2,1, 4*,4,7,57.14,0,0,0,0,2014, SRH,1000000, Bowler, amishra,7
+Amit Mishra,4,10,2,1, 4*,4,7,57.14,0,0,0,0,2014, SRH,47500000, Bowler, amishra,7
+Morne Morkel,4,12,2,2, 4*,0,3,133.33,0,0,0,0,2014, KKR,28000000, Bowler, mmorkel,12
+Mohammad Shami,3,12,4,2, 1*,1.5,7,42.85,0,0,0,0,2014, DC,42000000, Bowler, mshami,7
+Siddarth Kaul,2,5,1,1, 2*,0,2,100,0,0,0,0,2014, DC,6000000, Bowler, skaul,2
+Wayne Parnell,2,8,2,1,2,2,2,100,0,0,0,0,2014, DC,3000000, Bowler, wparnell,6
+Sandeep Sharma,2,11,1,1, 2*,0,5,40,0,0,0,0,2014, PBKS,8500000, Bowler, ssharma,18
+Sandeep Sharma,2,11,1,1, 2*,0,5,40,0,0,0,0,2014, PBKS,8500000, Bowler, ssharma,18
+Umesh Yadav,2,12,1,0,2,2,4,50,0,0,0,0,2014, KKR,26000000, Bowler, uyadav,11
+Vikramjeet Malik,1,1,1,1, 1*,0,2,50,0,0,0,0,2014, RR,2000000, Bowler, vmalik,1
+Kane Richardson,1,7,1,0,1,1,2,50,0,0,0,0,2014, RR,10000000, Bowler, krichardson,9
+Jaydev Unadkat,1,9,2,1, 1*,1,6,16.66,0,0,0,0,2014, DC,12600000, Bowler, junadkat,9
+Lakshmipathy Balaji,1,9,2,1, 1*,1,3,33.33,0,0,0,0,2014, PBKS,18000000, Bowler, lbalaji,12
+Jasprit Bumrah,1,11,2,2, 1*,0,3,33.33,0,0,0,0,2014, MI,12000000, Bowler, jbumrah,5
+Bhuvneshwar Kumar,1,14,2,1,1,1,4,25,0,0,0,0,2014, SRH,42500000, Bowler, bkumar,20
+Mohit Sharma,1,16,1,1, 1*,0,3,33.33,0,0,0,0,2014, CSK,1200000, Bowler, msharma,23
+Beuran Hendricks,0,3,1,0, 0*,0,1,0,0,0,0,0,2014, PBKS,18000000, Bowler, bhendricks,4
+Praveen Kumar,17,12,4,1,12,5.66,25,68,0,0,1,0,2015, SRH,22000000, Bowler, pkumar,7
+Mitchell McClenaghan,13,12,3,2, 12*,13,6,216.66,0,0,0,2,2015, MI,6000000, Bowler, mmcclenaghan,18
+Amit Mishra,8,12,4,2,4,4,12,66.66,0,0,0,0,2015, DC,3000000, Bowler, amishra,9
+Juan Theron,1,1,1,1, 1*,0,1,100,0,0,0,0,2015, RR,3000000, Bowler, jtheron,1
+Mohit Sharma,32,14,6,2,15,8,26,123.07,0,0,3,1,2016, PBKS,6000000, Bowler, msharma,13
+Tim Southee,30,11,4,1,25,10,19,157.89,0,0,1,2,2016, MI,25000000, Bowler, tsouthee,9
+Praveen Kumar,28,16,7,3,15,7,27,103.7,0,0,4,0,2016, GL,24000000, Bowler, pkumar,9
+Dhawal Kulkarni,23,14,5,3, 6*,11.5,15,153.33,0,0,2,0,2016, GL,42000000, Bowler, dkulkarni,18
+Kyle Abbott,13,5,3,2, 12*,13,8,162.5,0,0,0,1,2016, PBKS,6000000, Bowler, kabbott,2
+Pravin Tambe,7,7,1,1, 7*,0,19,36.84,0,0,1,0,2016, GL,24000000, Bowler, ptambe,5
+Amit Mishra,4,14,2,0,3,2,14,28.57,0,0,0,0,2016, DC,17400000, Bowler, amishra,13
+Kane Richardson,1,4,1,1, 1*,0,1,100,0,0,0,0,2016, RCB,20000000, Bowler, krichardson,7
+Ashish Nehra,1,8,2,2, 1*,0,1,100,0,0,0,0,2016, SRH,55000000, Bowler, anehra,9
+Adam Zampa,0,5,1,0, 0*,0,1,0,0,0,0,0,2016, RPS,3000000, Bowler, azampa,12
+Shivil Kaushik,0,7,2,1, 0*,0,1,0,0,0,0,0,2016, GL,9000000, Bowler, skaushik,6
+Kagiso Rabada,55,6,3,0,44,18.33,64,85.93,0,0,5,1,2017, DC,37500000, Bowler, krabada,6
+Basil Thampi,28,12,5,5, 13*,0,28,100,0,0,1,1,2017, GL,37500000, Bowler, bthampi,11
+Aniket Choudhary,25,5,3,2, 15*,25,20,125,0,0,1,1,2017, RCB,20000000, Bowler, achoudhary,5
+Mitchell Johnson,20,5,3,3, 13*,0,17,117.64,0,0,1,1,2017, MI,20000000, Bowler, mjohnson,7
+Nathan Coulter-Nile,14,8,3,0,6,4.66,12,116.66,0,0,0,2,2017, KKR,3000000, Bowler, ncoulter-nile,15
+Tymal Mills,8,5,3,0,6,2.66,11,72.72,0,0,0,1,2017, RCB,120000000, Bowler, tmills,5
+Trent Boult,5,6,1,1, 5*,0,8,62.5,0,0,0,0,2017, KKR,9000000, Bowler, tboult,5
+Varun Aaron,4,6,2,1,4,4,10,40,0,0,0,0,2017, PBKS,24000000, Bowler, vaaron,7
+Rahul Chahar,3,3,1,1, 3*,0,2,150,0,0,0,0,2017, RPS,1000000, Bowler, rchahar,2
+Jaydev Unadkat,2,12,2,2, 2*,0,5,40,0,0,0,0,2017, RPS,3000000, Bowler, junadkat,24
+Lockie Ferguson,1,4,1,1, 1*,0,1,100,0,0,0,0,2017, RPS,5000000, Bowler, lferguson,3
+Munaf Patel,0,2,1,0, 0*,0,1,0,0,0,0,0,2017, GL,27000000, Bowler, mpatel,1
+Krishnappa Gowtham,126,15,13,4, 33*,14,64,196.87,0,0,9,9,2018, RR,62000000, Bowler, kgowtham,11
+Tim Southee,52,8,4,2, 36*,26,46,113.04,0,0,5,1,2018, RCB,10000000, Bowler, tsouthee,5
+Jaydev Unadkat,49,15,7,3,26,12.25,38,128.94,0,0,6,1,2018, RR,115000000, Bowler, junadkat,11
+Andrew Tye,32,14,8,2,14,5.33,38,84.21,0,0,2,1,2018, PBKS,72000000, Bowler, atye,24
+Harbhajan Singh,29,13,3,0,19,9.66,36,80.55,0,0,3,1,2018, CSK,3000000, Bowler, hsingh,7
+Piyush Chawla,27,15,7,3,12,6.75,34,79.41,0,0,1,1,2018, KKR,42000000, Bowler, pchawla,14
+Mohammed Siraj,25,11,4,2,14,12.5,22,113.63,0,0,2,1,2018, RCB,26000000, Bowler, msiraj,11
+Mayank Markande,21,14,6,4, 7*,10.5,24,87.5,0,0,2,0,2018, MI,2000000, Bowler, mmarkande,15
+Mitchell Johnson,16,6,2,2, 12*,0,11,145.45,0,0,2,0,2018, KKR,20000000, Bowler, mjohnson,2
+Mohit Sharma,10,9,4,3, 4*,10,13,76.92,0,0,1,0,2018, PBKS,24000000, Bowler, msharma,7
+Mohammad Shami,7,4,1,0,7,7,6,116.66,0,0,1,0,2018, DC,9000000, Bowler, mshami,3
+Shahbaz Nadeem,6,6,1,1, 6*,0,8,75,0,0,0,0,2018, DC,24000000, Bowler, snadeem,3
+Dhawal Kulkarni,6,8,2,1, 3*,6,7,85.71,0,0,0,0,2018, RR,7500000, Bowler, dkulkarni,4
+Anureet Singh,3,3,1,1, 3*,0,4,75,0,0,0,0,2018, RR,3000000, Bowler, asingh,1
+Basil Thampi,3,4,2,1,3,3,6,50,0,0,0,0,2018, SRH,9500000, Bowler, bthampi,5
+Umesh Yadav,3,14,5,1, 1*,0.75,11,27.27,0,0,0,0,2018, RCB,42000000, Bowler, uyadav,20
+Siddarth Kaul,3,17,4,1,2,1,14,21.42,0,0,0,0,2018, SRH,38000000, Bowler, skaul,21
+Imran Tahir,2,6,1,1, 2*,0,2,100,0,0,0,0,2018, CSK,3000000, Bowler, itahir,6
+Ben Laughlin,1,7,2,1, 1*,1,4,25,0,0,0,0,2018, RR,5000000, Bowler, blaughlin,9
+Mustafizur Rahman,1,7,2,1,1,1,3,33.33,0,0,0,0,2018, MI,22000000, Bowler, mrahman,7
+Amit Mishra,1,10,1,1, 1*,0,2,50,0,0,0,0,2018, DC,31500000, Bowler, amishra,12
+Sandeep Sharma,0,12,3,1, 0*,0,4,0,0,0,0,0,2018, SRH,30000000, Bowler, ssharma,12
+Trent Boult,0,14,1,0, 0*,0,2,0,0,0,0,0,2018, DC,3000000, Bowler, tboult,18
+Ishant Sharma,10,13,3,3, 10*,0,3,333.33,0,0,1,1,2019, DC,15600000, Bowler, isharma,13
+Varun Aaron,3,5,1,1, 3*,0,7,42.85,0,0,0,0,2019, RR,24000000, Bowler, vaaron,4
+Harry Gurney,1,8,1,1, 1*,0,5,20,0,0,0,0,2019, KKR,9000000, Bowler, hgurney,7
+Jaydev Unadkat,1,11,4,3,1,1,3,33.33,0,0,0,0,2019, RR,84000000, Bowler, junadkat,10
+Mohammad Shami,1,14,2,1, 1*,1,2,50,0,0,0,0,2019, PBKS,24000000, Bowler, mshami,19
+Mohit Sharma,0,1,1,1, 0*,0,2,0,0,0,0,0,2019, CSK,37500000, Bowler, msharma,1
+Tushar Deshpande,21,5,2,1, 20*,21,12,175,0,0,2,1,2020, DC,37500000, Bowler, tdeshpande,3
+Jaydev Unadkat,9,7,1,0,9,9,13,69.23,0,0,0,0,2020, RR,12600000, Bowler, junadkat,4
+Ravi Bishnoi,7,14,3,2, 6*,7,12,58.33,0,0,1,0,2020, PBKS,6000000, Bowler, rbishnoi,12
+Andrew Tye,6,1,1,0,6,6,6,100,0,0,0,1,2020, RR,18000000, Bowler, atye,1
+Kartik Tyagi,4,10,3,2, 2*,4,6,66.66,0,0,0,0,2020, RR,31500000, Bowler, ktyagi,9
+Dale Steyn,1,3,1,1, 1*,0,2,50,0,0,0,0,2020, RCB,6000000, Bowler, dsteyn,1
+Sheldon Cottrell,0,6,1,0, 0*,0,2,0,0,0,0,0,2020, PBKS,27000000, Bowler, scottrell,6
+Adam Milne,16,4,3,1,15,8,17,94.11,0,0,0,1,2021, MI,1200000, Bowler, amilne,3
+Chetan Sakariya,16,14,6,1,7,3.2,25,64,0,0,2,0,2021, RR,12000000, Bowler, csakariya,14
+Jhye Richardson,15,3,2,0,15,7.5,24,62.5,0,0,2,0,2021, PBKS,6000000, Bowler, jrichardson,3
+Mustafizur Rahman,8,14,5,5, 8*,0,14,57.14,0,0,0,1,2021, RR,10000000, Bowler, mrahman,14
+Nathan Coulter-Nile,4,5,2,0,3,2,5,80,0,0,0,0,2021, MI,12600000, Bowler, ncoulter-nile,7
+Piyush Chawla,0,1,1,0, 0*,0,2,0,0,0,0,0,2021, MI,31500000, Bowler, pchawla,1
+Shardul Thakur,120,14,10,2, 29*,15,87,137.93,0,0,7,7,2022, DC,24000000, Bowler, sthakur,15
+Rahul Chahar,77,13,8,2, 25*,12.83,68,113.23,0,0,7,4,2022, PBKS,52500000, Bowler, rchahar,14
+Jaydev Unadkat,59,5,5,2, 19*,19.67,37,159.45,0,0,4,3,2022, MI,13000000, Bowler, junadkat,6
+Umesh Yadav,55,12,7,3,21,13.75,40,137.5,0,0,4,4,2022, KKR,20000000, Bowler, uyadav,16
+Kagiso Rabada,48,13,8,3,25,9.6,43,111.62,0,0,5,2,2022, PBKS,92500000, Bowler, krabada,23
+Kuldeep Yadav,48,14,7,6, 16*,48,52,92.3,0,0,3,2,2022, DC,9000000, Bowler, kyadav,21
+Trent Boult,40,16,8,6, 17*,20,29,137.93,0,0,2,1,2022, RR,80000000, Bowler, tboult,16
+Bhuvneshwar Kumar,24,14,6,3,8,8,26,92.3,0,0,3,0,2022, SRH,42000000, Bowler, bkumar,12
+Mohsin Khan,23,9,3,2, 13*,23,16,143.75,0,0,2,1,2022, LSG,2000000, Bowler, mkhan,14
+Avesh Khan,22,13,4,3,12,22,13,169.23,0,0,0,3,2022, LSG,100000000, Bowler, akhan,18
+Josh Hazlewood,18,12,5,5, 7*, -,26,69.23,0,0,1,0,2022, RCB,77500000, Bowler, jhazlewood,20
+Murugan Ashwin,12,8,5,2,6,4,14,85.71,0,0,1,1,2022, MI,16000000, Bowler, mashwin,9
+Shreyas Gopal,9,1,1,1, 9*, -,7,128.57,0,0,2,0,2022, SRH,7500000, Bowler, sgopal,1
+Sean Abbott,7,1,1,0,7,7,5,140,0,0,0,1,2022, SRH,24000000, Bowler, sabbott,1
+Maheesh Theekshana,7,9,2,1, 7*,7,7,100,0,0,0,1,2022, CSK,3000000, Bowler, mtheekshana,12
+Simarjeet Singh,7,6,3,2, 3*,7,8,87.5,0,0,0,0,2022, CSK,43500000, Bowler, ssingh,4
+Mukesh Choudhary,6,13,2,1,4,6,6,100,0,0,1,0,2022, CSK,40500000, Bowler, mchoudhary,16
+Lockie Ferguson,5,13,3,1,5,2.5,4,125,0,0,1,0,2022, GT,100000000, Bowler, lferguson,12
+Alzarri Joseph,5,9,3,2, 4*,5,7,71.42,0,0,0,0,2022, GT,24000000, Bowler, ajoseph,7
+Yuzvendra Chahal,5,17,2,1,5,5,8,62.5,0,0,0,0,2022, RR,65000000, Bowler, ychahal,27
+Vaibhav Arora,5,5,4,2, 2*,2.5,13,38.46,0,0,0,0,2022, PBKS,20000000, Bowler, varora,3
+Mustafizur Rahman,3,8,1,1, 3*, -,5,60,0,0,0,0,2022, DC,17400000, Bowler, mrahman,8
+Navdeep Saini,2,2,1,0,2,2,2,100,0,0,0,0,2022, RR,26000000, Bowler, nsaini,3
+Fazalhaq Farooqi,2,3,1,1, 2*, -,8,25,0,0,0,0,2022, SRH,5000000, Bowler, ffarooqi,2
+Jagadeesha Suchith,2,5,2,0,2,1,8,25,0,0,0,0,2022, SRH,2000000, Bowler, jsuchith,7
+Tim Southee,2,9,5,1, 1*,0.5,12,16.66,0,0,0,0,2022, KKR,15000000, Bowler, tsouthee,14
+Piyush Chawla,25,16,4,2,18,12.5,22,113.63,0,0,1,1,2023, MI,5000000, Bowler, pchawla,22
+Adil Rashid,22,2,2,0,18,11,16,137.5,0,0,2,1,2023, SRH,20000000, Bowler, arashid,2
+Mayank Markande,21,10,3,3, 18*, -,13,161.53,0,0,2,1,2023, SRH,5000000, Bowler, mmarkande,12
+Amit Mishra,19,7,1,0,19,19,30,63.33,0,0,2,0,2023, LSG,6000000, Bowler, amishra,7
+Adam Zampa,10,6,3,0,7,3.33,16,62.5,0,0,0,0,2023, RR,15000000, Bowler, azampa,8
+Mukesh Kumar,7,10,3,3, 6*, -,9,77.77,0,0,0,0,2023, DC,3000000, Bowler, mkumar,7
+Vaibhav Arora,3,5,2,2, 2*, -,2,150,0,0,0,0,2023, KKR,12600000, Bowler, varora,5
+Ishant Sharma,1,8,1,1, 1*, -,1,100,0,0,0,0,2023, DC,3000000, Bowler, isharma,10
+Jaydev Unadkat,24,11,5,2, 8*,8,26,92.3,0,0,2,1,2024, SRH,16000000, Bowler, junadkat,8
+Umesh Yadav,12,7,2,1, 10*,12,15,80,0,0,0,1,2024, GT,43500000, Bowler, uyadav,8
+Mitchell Starc,9,14,5,3, 6*,4.5,11,81.81,0,0,1,0,2024, KKR,1200000, Bowler, mstarc,17
+Spencer Johnson,6,5,3,3, 5*, -,7,85.71,0,0,1,0,2024, GT,6000000, Bowler, sjohnson,4
+Lockie Ferguson,1,7,1,0,1,1,1,100,0,0,0,0,2024, RCB,20000000, Bowler, lferguson,9

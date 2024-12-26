@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prediction Result</title>
+</head>
+<body>
+    <h1>Predicted Values</h1>
+    <ul>
+        {% for i, prediction in enumerate(predictions) %}
+        <li>Model {{ i + 1 }} Prediction: {{ prediction }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Home</a>
+</body>
+</html>
+

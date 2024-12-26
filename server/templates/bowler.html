@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL Auction - Bowler Price Prediction</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Background styling for IPL theme */
+        body {
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            transition: background 1s ease-in-out; /* Smooth transition */
+
+
+
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            color: #fff;
+        }
+
+        .form-container {
+            background-color: #052c65;
+            padding: 2rem;
+            border-radius: 15px;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+            width: 100%;
+            max-width: 500px;
+        }
+
+        .form-title {
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            text-align: center;
+        }
+
+        .form-control {
+            border-radius: 10px;
+        }
+
+        .submit-btn {
+            background-color: #198754;
+            border: none;
+            border-radius: 20px;
+            padding: 0.5rem 1.5rem;
+            font-size: 1rem;
+            transition: background-color 0.3s;
+        }
+
+        .submit-btn:hover {
+            background-color: #ffc371;
+            color: #000;
+        }
+
+        .ipl-banner {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .ipl-banner img {
+            width: 100px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <div class="ipl-banner">
+            <img src="{{ url_for('static', filename='images/ipl.png')}}" alt="IPL Logo">
+        </div>
+        <div class="form-title">IPL Bowler Price Prediction</div>
+        <form action="/bowler_predict" method="POST">
+            <div class="mb-3">
+                <label for="runs" class="form-label">WICKETS</label>
+                <input type="number" name="wickets" class="form-control" id="runs" placeholder="Enter total wicket">
+            </div>
+            <div class="mb-3">
+                <label for="matches" class="form-label">MATCHES</label>
+                <input type="number" name="matches" class="form-control" id="matches" placeholder="Enter total matches played">
+            </div>
+            <div class="mb-3">
+                <label for="innings" class="form-label">INNINGS</label>
+                <input type="number" name="innings" class="form-control" id="innings" placeholder="Enter total innings">
+            </div>
+            <div class="mb-3">
+                <label for="fours" class="form-label">NO</label>
+                <input type="number" name="no" class="form-control" id="fours" placeholder="Enter total no ">
+            </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn submit-btn">Predict Price</button>
+            </div>
+        </form>
+    </div>
+<script>
+ const images = [
+            "{{ url_for('static', filename='images/auction1.jpg') }}",
+            "{{ url_for('static', filename='images/auction2.jpg') }}",
+            "{{ url_for('static', filename='images/auction4.jpg') }}"
+        ];
+        let currentIndex = 0;
+        function changeBackground() {
+            document.body.style.backgroundImage = `url(${images[currentIndex]})`;
+            currentIndex = (currentIndex + 1) % images.length; // Cycle through images
+        }
+        setInterval(changeBackground, 5000);
+        changeBackground();
+</script>
+    <script src="{{url_for('static', filename='js/changing_background.js')}}"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
