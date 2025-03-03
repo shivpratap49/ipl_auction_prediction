@@ -28,7 +28,7 @@ def main():
     json_array = json.dumps(list_json)
     csv_file = 'output.csv'
 
-    # Writing JSON to CSV
+    
     with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 
         writer = csv.DictWriter(file, fieldnames=list1)

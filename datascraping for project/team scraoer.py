@@ -7,11 +7,11 @@ import time
 
 
 def main():
-    # Initialize the WebDriver (make sure you have the right driver for your browser)
-    driver = webdriver.Firefox()  # or webdriver.Chrome()
+    
+    driver = webdriver.Firefox()  
 
-    # Open the target webpage
-    driver.get("https://www.iplt20.com/auction/2024")  # Replace with the actual URL
+    
+    driver.get("https://www.iplt20.com/auction/2024")  
 
 
     try:
@@ -29,10 +29,10 @@ def main():
         EC.element_to_be_clickable((By.CLASS_NAME, 'auction-tab-switch'))
     )
 
-    # Find the <a> tag within the <li> element
+    
     link = li_element.find_element(By.TAG_NAME, 'a')
 
-    # Click the link
+    
     driver.execute_script("""
            var element = arguments[0];
            element.addEventListener('click', function(e) {

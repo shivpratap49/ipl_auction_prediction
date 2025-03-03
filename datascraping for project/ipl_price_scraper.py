@@ -10,19 +10,19 @@ import json
 
 def main():
 
-    driver = webdriver.Firefox()  # or webdriver.Chrome()
+    driver = webdriver.Firefox()  
     url="https://www.iplt20.com/auction/2013"
 
-    driver.get(url)  # Replace with the actual URL
+    driver.get(url)  
 
 
     try:
 
         cookie_button = WebDriverWait(driver, 30).until(
             EC.element_to_be_clickable((By.XPATH, "//button[text()='Accept cookies']"))
-            # Replace with actual text or selector
+            
         )
-        cookie_button.click()  # Click to accept cookies
+        cookie_button.click()  
 
         print("Cookies accepted successfully!")
     except Exception as e:
@@ -31,10 +31,10 @@ def main():
         EC.element_to_be_clickable((By.CLASS_NAME, 'auction-tab-switch'))
     )
 
-    # Find the <a> tag within the <li> element
+    
     link = WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href="#autab35"]'))
-            # Replace with your href
+           
          )
 
 

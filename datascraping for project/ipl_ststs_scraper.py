@@ -10,37 +10,29 @@ import json
 
 def main(year):
     url="https://www.iplt20.com/stats/"+year
-    # Initialize the WebDriver (make sure you have the right driver for your browser)
-    driver = webdriver.Firefox()  # or webdriver.Chrome()
+    
+    driver = webdriver.Firefox()  
 
-    # Open the target webpage
-    driver.get(url)  # Replace with the actual URL
+    
+    driver.get(url)  
 
-    # Wait for the cookie consent button to be present and clickable
+   
     try:
-        # Adjust the selector based on the actual button on the website
+      
         cookie_button = WebDriverWait(driver, 30).until(
             EC.element_to_be_clickable((By.XPATH, "//button[text()='Accept cookies']"))
-            # Replace with actual text or selector
+         
         )
-        cookie_button.click()  # Click to accept cookies
+        cookie_button.click() 
 
         print("Cookies accepted successfully!")
     except Exception as e:
         print(f"Error accepting cookies: {e}")
-        # Wait for the 'View All' button to become clickable
+        
     view_all_button = WebDriverWait(driver, 10).until(
         EC.element_to_be_clickable((By.XPATH, '//a[@ng-click="showAllBattingStatsList()"]'))
     )
 
-    # Click the 'View All' button
-
-
-
-
-
-
-    # Click the link
     driver.execute_script("""
            var element = arguments[0];
            element.addEventListener('click', function(e) {
@@ -59,8 +51,8 @@ def main(year):
     list1.append('Year')
     list_json = []
     for row in rows[1:]:
-        columns = row.find_elements(By.TAG_NAME, 'td')  # Extract columns from each row
-        col = [col1.text for col1 in columns]  # Collect text from each column
+        columns = row.find_elements(By.TAG_NAME, 'td')  
+        col = [col1.text for col1 in columns]  
         print(col)
 
         dict = {}
@@ -73,7 +65,7 @@ def main(year):
     file_names='iplstats'+url[-4:]+'.csv'
     csv_file = file_names
 
-    # Writing JSON to CSV
+    
     with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
 
         writer = csv.DictWriter(file, fieldnames=list1)
@@ -85,29 +77,7 @@ def main(year):
 
     print(f"Data written to {csv_file}")
 
-        # element = WebDriverWait(driver, 10).until(
-        #     EC.presence_of_element_located((By.CSS_SELECTOR, 'a[href="#autab3-2022"]'))
-        #     # Replace with your href
-        # )
-        # element.click()
-        #elements = driver.find_element(By.CLASS_NAME, 'tab-n-view')
-        # li=elements.find_elements(By.XPATH, '#autab3-2022')
-        # for i in li:
-        #     print(i.text)
-
-        # Continue with other actions on the page
-        # li_element = WebDriverWait(driver, 10).until(
-        #     EC.presence_of_element_located((By.CSS_SELECTOR, 'li.some-class'))  # Adjust the selector as needed
-        # )
-        #
-        # # Find the link (<a>) within the <li> element
-        # link = li_element.find_element(By.TAG_NAME, 'a')
-
-        # Click the link
-        # link.click()
-
-
-        # Close the driver
+       
     driver.quit()
 
 

@@ -25,9 +25,7 @@ with open('batsmen.pkl', 'rb') as f:
 
 with open('bowler.pkl', 'rb') as f:
     bowlermodel = pickle.load(f)
-#x_batsmen = df_batsmen[["RUNS","MAT","INNS","4S","50"]]
-#x_all = df_allrounder1[[" Wicket"," RUNS"," MAT"," INNS"]]
-#x_bowl = df_bowler1[[" Wicket"," MAT"," INNS"," NO"]]
+
 @app.route('/')
 def home():
     return render_template('index.html')
